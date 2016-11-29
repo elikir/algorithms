@@ -1,0 +1,1 @@
+#quicksort chooses a pivot then recurses on each list
